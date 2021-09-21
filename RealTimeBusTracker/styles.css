@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#map {
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    width: 100%;
+}
+.map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 15px;
+}
+
+button {
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
